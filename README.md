@@ -32,7 +32,9 @@ Bạn cần chuẩn bị các file .txt sau trong cùng thư mục với file `m
 4.  **Vòng lặp**: Sau khi chạy hết danh sách ví, tool sẽ nghỉ 5 phút để chờ hồi năng lượng rồi tiếp tục chu kỳ mới.
 
 ### 4. CÁCH CHẠY TOOL
-Mở Terminal tại thư mục tool và gõ lệnh: Nhấn Start.bat 2 lần
+Mở Terminal tại thư mục tool và gõ lệnh: `node main.js`
+Nhấn Start.bat 2 lần nếu Cmd bạn đã Cài Đặt pm2
+
 
 ### 5. LƯU Ý QUAN TRỌNG
 *   **HWID Lock**: Một Key thường chỉ gắn chặt với 1 máy tính (HWID). Nếu bạn muốn đổi máy, hãy liên hệ Admin để reset Key.
